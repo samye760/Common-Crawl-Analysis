@@ -1,0 +1,4 @@
+[debug] [s3data-test] Classpath dependencies List()
+[debug] [s3data-test] Dependencies from configurations List(s3data)
+[debug] Bloop wrote the configuration of project 's3data-test' to '/home/skyler/project3/s3data/.bloop/s3data-test.json'
+[success] Generated .bloop/s3data-test.json
